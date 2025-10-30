@@ -5,7 +5,7 @@ const Hero = () => {
   return (
 <div
   className="w-full pt-[4vh] h-screen bg-[#0f0725] overflow-hidden relative bg-cover bg-center"
-  style={{ backgroundImage: "url('/images/Hero.jpg')" }}
+  style={{ backgroundImage: "url('/images/hero.jpg')" }}
 >
           {/* {black overlay} */}
           <div className='absolute inset-0 bg-black opacity-70'>
